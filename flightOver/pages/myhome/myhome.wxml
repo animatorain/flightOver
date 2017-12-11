@@ -1,0 +1,61 @@
+
+<view class="index">
+    <view class="top-adv"></view>
+<view class="container">
+<view class="flex-wrp" style="flex-direction: row;justify-content: center;">
+<view class="flex-item button1">
+    <view class="inner-button">
+    <text class="fa fa-user-circle-o fa-2x">
+    </text>
+    </view>
+</view>
+<view class="flex-item button2">
+    <view class="inner-button">
+    <text class="fa fa-plane fa-2x"></text>
+    </view>
+</view>
+<view class="flex-item button3">
+    <view class="inner-button">
+    <text class="fa fa-bullhorn fa-2x"></text>
+    </view>
+</view>
+
+</view>
+<view class="flex-wrp" style="flex-direction: row;justify-content: center;">
+<view class="flex-item button4">
+    <view class="inner-button">
+    <text class="fa fa-book fa-2x"></text>
+  </view>
+</view>
+<view class="flex-item button3">
+    <view class="inner-button">
+
+    </view>
+</view>
+<view class="flex-item button1">
+    <view class="inner-button">
+    </view>
+</view>
+
+
+</view>
+<view class="flex-wrp" style="flex-direction: row;justify-content: center;">
+<view class="flex-item button2">
+    <view class="inner-button">
+
+  </view>
+</view>
+<view class="flex-item button1">
+    <view class="inner-button">
+
+    </view>
+</view>
+<view class="flex-item button3">
+    <view class="inner-button">
+    </view>
+</view>
+
+
+</view>
+</view>
+</view>
