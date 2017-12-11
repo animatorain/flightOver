@@ -1,0 +1,30 @@
+/* pages/myhome/myhome.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width:100%;
+} 
+.top-adv{
+   width:100%;
+  height:400rpx; 
+  background-color:#c9c9c9;
+}
+.flex-wrp{
+ display:flex;
+ background-color: #FFFFFF;
+ width:100%;
+}
+.flex-item{
+ width: 120px;
+ height: 120px;
+ border:1px outset #e3e3e3;
+}
+
+.button1{background-color:#a0b0cd;}
+.button2{background-color:#e3e3e3;}
+.button3{background-color:#9ad3de;}
+.button4{background-color:#89bdd3;}
+.inner-button{display:flex;justify-content: center;margin-top:60rpx}
